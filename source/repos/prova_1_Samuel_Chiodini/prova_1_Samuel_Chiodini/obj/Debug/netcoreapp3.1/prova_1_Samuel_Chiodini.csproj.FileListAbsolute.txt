@@ -1,0 +1,13 @@
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\bin\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.exe
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\bin\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.deps.json
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\bin\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.runtimeconfig.json
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\bin\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.runtimeconfig.dev.json
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\bin\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.dll
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\bin\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.pdb
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\obj\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.csprojAssemblyReference.cache
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\obj\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.AssemblyInfoInputs.cache
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\obj\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.AssemblyInfo.cs
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\obj\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.csproj.CoreCompileInputs.cache
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\obj\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.dll
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\obj\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.pdb
+C:\Users\1020274\source\repos\prova_1_Samuel_Chiodini\prova_1_Samuel_Chiodini\obj\Debug\netcoreapp3.1\prova_1_Samuel_Chiodini.genruntimeconfig.cache
